@@ -12,6 +12,7 @@ public class Log4jTestNG {
 	static Logger logger=Logger.getLogger(Log4jTestNG.class);
   @Test
   public void f() {
+	  //setting propert for log4j
 	  PropertyConfigurator.configure("Log4j.properties");
 	  System.setProperty("webdriver.gecko.driver","D:\\Karthiga\\Testing Training\\jar and war files\\jar\\drivers\\geckodriver.exe");
 	  driver=new FirefoxDriver();
