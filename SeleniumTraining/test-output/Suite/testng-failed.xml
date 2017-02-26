@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="myName" value="Karthiga"/>
+  <test name="Test(failed)">
+    <parameter name="myName" value="Karthiga"/>
+    <classes>
+      <class name="TestNGdemo.gmailIE">
+        <methods>
+          <include name="intializingBrowser"/>
+          <include name="closingBrowser2"/>
+        </methods>
+      </class> <!-- TestNGdemo.gmailIE -->
+      <class name="TestNGdemo.yahooSearch">
+        <methods>
+          <include name="yahooSearch1"/>
+          <include name="googleSearch1"/>
+          <include name="intializingBrowser"/>
+        </methods>
+      </class> <!-- TestNGdemo.yahooSearch -->
+      <class name="TestNGdemo.GoogleSearch">
+        <methods>
+          <include name="gmail"/>
+          <include name="googleSearch"/>
+          <include name="closingBrowser"/>
+          <include name="yahooSearch"/>
+          <include name="intializingBrowser"/>
+        </methods>
+      </class> <!-- TestNGdemo.GoogleSearch -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

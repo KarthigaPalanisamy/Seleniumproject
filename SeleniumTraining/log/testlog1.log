@@ -1,0 +1,27 @@
+2017-02-25 19:04:45,358 [main] INFO log4j - Browser Opened
+2017-02-25 19:04:45,529 [main] INFO log4j - Implicit wait given
+2017-02-25 19:04:46,771 [main] INFO log4j - Url opened
+2017-02-25 19:04:47,969 [main] INFO log4j - keyword type
+2017-02-25 19:05:17,844 [main] INFO log4j - Browser Opened
+2017-02-25 19:05:18,044 [main] INFO log4j - Implicit wait given
+2017-02-25 19:05:19,233 [main] INFO log4j - Url opened
+2017-02-25 19:06:07,171 [main] INFO log4j - Browser Opened
+2017-02-25 19:06:07,349 [main] INFO log4j - Implicit wait given
+2017-02-25 19:06:08,795 [main] INFO log4j - Url opened
+2017-02-25 19:06:10,342 [main] INFO log4j - closing browser
+2017-02-26 08:30:49,908 [main] INFO Log4j.Log4jTestNG - Intiating browser
+2017-02-26 08:30:49,982 [main] INFO Log4j.Log4jTestNG - maximizing window
+2017-02-26 08:30:52,364 [main] INFO Log4j.Log4jTestNG - oppwning google page
+2017-02-26 08:30:53,401 [main] INFO Log4j.Log4jTestNG - closing browser
+2017-02-26 08:35:56,334 [main] INFO Log4j.Log4jTestNG - Intiating browser
+2017-02-26 08:35:56,443 [main] INFO Log4j.Log4jTestNG - maximizing window
+2017-02-26 08:35:58,000 [main] INFO Log4j.Log4jTestNG - oppwning google page
+2017-02-26 08:35:58,991 [main] INFO Log4j.Log4jTestNG - closing browser
+2017-02-26 08:41:43,706 [main] INFO Log4j.Log4jTestNG - Intiating browser
+2017-02-26 08:41:43,727 [main] INFO Log4j.Log4jTestNG - maximizing window
+2017-02-26 08:41:46,453 [main] INFO Log4j.Log4jTestNG - oppwning google page
+2017-02-26 08:41:47,936 [main] INFO Log4j.Log4jTestNG - closing browser
+2017-02-26 08:43:08,388 [main] INFO Log4j.Log4jTestNG - Intiating browser
+2017-02-26 08:43:08,403 [main] INFO Log4j.Log4jTestNG - maximizing window
+2017-02-26 08:43:13,973 [main] INFO Log4j.Log4jTestNG - oppwning google page
+2017-02-26 08:43:15,112 [main] INFO Log4j.Log4jTestNG - closing browser
